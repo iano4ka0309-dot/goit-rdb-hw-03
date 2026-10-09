@@ -1,0 +1,4 @@
+﻿venv/
+hw3_pg*/
+pg_data/
+.ipynb_checkpoints/
